@@ -9,7 +9,7 @@
  * - Process specific telemetry values
  */
 
-import IBT from '../src/ibt';
+import IBT from '../src/ibt.js';
 
 // Path to your IBT file (replace with your actual IBT file path)
 const ibtFilePath = './telemetry.ibt';
